@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\bin\Debug\netcoreapp3.1\Standard Deviation.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\bin\Debug\netcoreapp3.1\Standard Deviation.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\bin\Debug\netcoreapp3.1\Standard Deviation.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\bin\Debug\netcoreapp3.1\Standard Deviation.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\bin\Debug\netcoreapp3.1\Standard Deviation.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\bin\Debug\netcoreapp3.1\Standard Deviation.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\Standard Deviation\Standard Deviation\obj\Debug\netcoreapp3.1\Standard Deviation.genruntimeconfig.cache
